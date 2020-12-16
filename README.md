@@ -1,10 +1,12 @@
 # PBNFM
 This code implements the noise model estimation method described in "A Physics-based Noise Formation Model for Extreme Low-light Raw Denoising" paper. Since the original project,[ELD](https://github.com/Vandermode/ELD), only provides the denoising process and some key details are missing, the project is made for throughly understand the process of noise estimation method from the paper. 
 
-## Codes
+## Codes update
 To be continue ...
 
 ## Sample Results
+The K and f in test code is set to 27 and 20,separately.
+
 input_ clean | synthesis noise
 ----|-----
 <img src="https://github.com/DavidQiuChao/PBNFM/blob/main/figs/pic1_clean.jpg" width = "400" height = "400" alt="1in"/>|<img src="https://github.com/DavidQiuChao/PBNFM/blob/main/figs/pic1_noise.jpg" width = "400" height = "400" alt="1out"/>
