@@ -9,7 +9,7 @@ import func as fc
 
 
 def testByDir(srcDir,outDir):
-    noiseModel = np.load('jointDistribution_T1pro.npy',allow_pickle=True).item()
+    noiseModel = np.load('model/jointDistribution_T1pro.npy',allow_pickle=True).item()
     names = os.listdir(srcDir)
     for name in tqdm.tqdm(names):
         path = os.path.join(srcDir,name)
