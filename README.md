@@ -7,7 +7,7 @@ Results are tested on the images shot by TCL10pro mobile phone. And the noise mo
 
 input_ clean | synthesis noise
 ----|-----
-<img src="https://github.com/DavidQiuChao/PBNFM/blob/main/figs/pic1__clean.jpg" width = "400" height = "400" alt="1in"/>|<img src="https://github.com/DavidQiuChao/PBNFM/blob/main/figs/pic1_noise.jpg" width = "400" height = "400" alt="1out"/>
-<img src="https://github.com/DavidQiuChao/PBNFM/blob/main/figs/pic2__clean.jpg" width = "400" height = "400" alt="2in"/>|<img src="https://github.com/DavidQiuChao/PBNFM/blob/main/figs/pic2_noise.jpg" width = "400" height = "400" alt="2out"/>
+<img src="https://github.com/DavidQiuChao/PBNFM/blob/main/figs/pic1_clean.jpg" width = "400" height = "400" alt="1in"/>|<img src="https://github.com/DavidQiuChao/PBNFM/blob/main/figs/pic1_noise.jpg" width = "400" height = "400" alt="1out"/>
+<img src="https://github.com/DavidQiuChao/PBNFM/blob/main/figs/pic2_clean.jpg" width = "400" height = "400" alt="2in"/>|<img src="https://github.com/DavidQiuChao/PBNFM/blob/main/figs/pic2_noise.jpg" width = "400" height = "400" alt="2out"/>
 
 
