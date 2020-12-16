@@ -5,8 +5,6 @@ This code implements the noise model estimation method described in "A Physics-b
 To be continue ...
 
 ## Sample Results
-Results are tested on the images shot by TCL10pro mobile phone. And the noise model is also estimated on the TCL10pro. 
-
 input_ clean | synthesis noise
 ----|-----
 <img src="https://github.com/DavidQiuChao/PBNFM/blob/main/figs/pic1_clean.jpg" width = "400" height = "400" alt="1in"/>|<img src="https://github.com/DavidQiuChao/PBNFM/blob/main/figs/pic1_noise.jpg" width = "400" height = "400" alt="1out"/>
