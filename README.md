@@ -2,10 +2,10 @@
 This code implements the noise model estimation method described in "A Physics-based Noise Formation Model for Extreme Low-light Raw Denoising" paper. Since the original project,[ELD](https://github.com/Vandermode/ELD), only provides the denoising process and some key details are missing, the project is made for throughly understand the process of noise estimation method from the paper. 
 
 ## Codes update
-Since the "func.py" code and estimation code are under cleaning,a "func.pyc" file is provided for testing purpose.
+Since the "func.py" code and estimation code are under cleaning, a "func.pyc" file is provided for testing purpose.
 And the rest of the code will update as soon as the code clean is done.
 
-If you are interesting in this project and have some suggestion on this code, please feel free to contact me.
+If you are interesting in this project and have some suggestions on this code, please feel free to contact me.
 
 ## Sample Results
 The K and f in test code is set to 27 and 20,separately.
