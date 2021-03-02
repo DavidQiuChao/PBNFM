@@ -14,3 +14,7 @@ input_ clean | synthesis noise
 ----|-----
 <img src="https://github.com/DavidQiuChao/PBNFM/blob/main/figs/pic1_clean.jpg" width = "400" height = "400" alt="1in"/>|<img src="https://github.com/DavidQiuChao/PBNFM/blob/main/figs/pic1_noise.jpg" width = "400" height = "400" alt="1out"/>
 <img src="https://github.com/DavidQiuChao/PBNFM/blob/main/figs/pic2_clean.jpg" width = "400" height = "400" alt="2in"/>|<img src="https://github.com/DavidQiuChao/PBNFM/blob/main/figs/pic2_noise.jpg" width = "400" height = "400" alt="2out"/>
+
+## Noise Estimation Code
+As the code clean dosen't finish yet, I will upload the code as soon as possible. Please donot ask for the code privately. But I will reply the issues commited on this project.
+Thank you for your understanding.
